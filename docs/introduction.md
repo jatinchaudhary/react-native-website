@@ -25,7 +25,7 @@ To work with React Native, you will need to have an understanding of JavaScript 
 
 ## Interactive examples
 
-This introduction lets you get started immediately in your browser with interactive examples like this one:
+This introduction lets you get started immediately in your browser with interactive examples like this:
 
 ```SnackPlayer name=Hello%20World
 import React from 'react';
